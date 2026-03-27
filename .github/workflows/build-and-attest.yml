@@ -20,8 +20,9 @@ jobs:
 
       - name: Compile LaTeX
         run: |
-          pdflatex -interaction=nonstopmode main.tex
-          pdflatex -interaction=nonstopmode main.tex
+          pdflatex -interaction=nonstopmode temoignage_philippe_thomas_savard.tex
+          pdflatex -interaction=nonstopmode temoignage_philippe_thomas_savard.tex
+
 
       - name: Generate cryptographic attestation (SHA-256)
         run: |
