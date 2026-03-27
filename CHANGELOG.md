@@ -9,3 +9,7 @@ Elle inclut :
 - la mise à jour du dépôt avec les fichiers produits
 
 Ce processus garantit la traçabilité, l’intégrité et la reproductibilité du document publié.
+## 2026-03-27 21:15:59
+- Compilation automatique du PDF
+- Attestation cryptographique SHA-256 générée
+
